@@ -1,4 +1,4 @@
-if status is-login
+if status is-login >/dev/null
 
     # configuration
     set -q TMUX_ITERM_INTEGRATE;   or set -U TMUX_ITERM_INTEGRATE   0
