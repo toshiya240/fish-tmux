@@ -1,6 +1,6 @@
 # fish-tmux
 
-fish-tmux is a port of
+fish-tmux is a fish port of
 [prezto/modules/tmux](https://github.com/sorin-ionescu/prezto/tree/master/modules/tmux).
 
 ## Install
